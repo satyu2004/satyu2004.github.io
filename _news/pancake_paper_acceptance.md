@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Acceptance of "[Ancient pancake solutions to fully nonlinear curvature flows](https://arxiv.org/abs/2303.09078)" to American Journal of Mathematics!
+"[Ancient pancake solutions to fully nonlinear curvature flows](https://arxiv.org/abs/2303.09078)" with Dr. Mat Langford accepted by American Journal of Mathematics!
