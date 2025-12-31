@@ -3,10 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: Sathya Rengaswami # the website title (if blank, full name will be used instead)
-first_name: Samuel
+first_name: Sathya
 middle_name:
-last_name: Sui
-email: ssui@vols.utk.edu
+last_name: Rengaswami
+email: sathyarengaswami@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >

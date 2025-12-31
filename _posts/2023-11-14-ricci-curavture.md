@@ -17,11 +17,3 @@ Curvature is essentially a local phenomenon, and topology a global one: it is a 
 \end{equation}
 where $S$ is a surface, the term on the left is the integral of the Gauss curvature of the surface, and on the right we have the Euler characteristic $\chi(S)$, which is a topological invariant of $S$. Other connections between curvature and topology are found, for instance, in the Bonnet-Myers theorem (curvature and compactness) and Hadamard's theorem (spaces of nonpositive sectional curvature).
 
-*to be continued*
-
-
-
-### Potato
-
-[Code Repository](https://github.com/satyu2004/tomato)
-Sathya is the the best

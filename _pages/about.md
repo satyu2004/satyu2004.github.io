@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Differential Geometry. Partial Differential Equations. Dynamical Systems.
+subtitle: Deep Learning for Time Series. Differential Geometry. Partial Differential Equations. Dynamical Systems.
 
 profile:
   align: right
@@ -20,7 +20,16 @@ social: true  # includes social icons at the bottom of the page
 Hi! I'm Sathya, a problem-solver by nature and mathematician by profession. This website is a window to my research interests, learnings and my creative outputs. Please explore, and reach out if you want to find out more about my work!
 
 ## Current Research
-My current work is at the intersection of geometry and network analysis, with a view towards applications. More specifically, I study the Ricci curvature of discrete structures such as graphs, simplicial complexes etc. This idea has been applied in diverse areas like *social network analysis, financial mathematics, cancer research, image processing* etc.
+I am currently a Postdoctoral Research Fellow at the Army Research Lab, where I am working on the applications of deep learning to manifold navigation. I build PyTorch models capable of handling timeseries arising in navigation. In addition, I design Monte Carlo algorithms on manifolds to simulate diffusions and autoregressive processes on manifolds.
+
+## Independent Projects
+Besides my primary research topic, I enjoy working on data analysis competitions hosted on Kaggle. I build machine learning modelos to solve real-world problems. Please check out my GitHub for some of my solutions.
+
+## Previous Research
+- Graph Ricci curvature and its applications to clustering on graphs
+- Mean Curvature Flow and its applications to smoothing data
+- The Kuramoto model and the phenomenon of synchrony
+
 
 Apart from theoretical aspects, there is a strong emphasis on **algorithms, programming, computation, data processing** and **visualization** in my current research. 
 
@@ -32,7 +41,5 @@ I explore "ancient solutions" to fully nonlinear curvature flows, the well-studi
 ## Master's Research
 During my Master's, I worked on the phenomenon of synchrony, which at the intersection of dynamical systems and differential equations, and has applications to mathematical biology, power systems etc. Synchrony is ubiquitous in the natural world, seen in its most splendid form in the arising of spontaneous synchrony in fireflies. The *Kuramoto Model* is a powerful mathematical model that captures this phenomenon, and this is the subject of my Master's research.
 
-## Beyond Pure Math
-Besides pure mathematics, I am also interested in areas such as **Machine Learning** and **Quantitative Research**.
-
-I am also a recreational tennis player and hiker.
+## Outside Professional Life
+When I'm not programming or doing math, I'm playing tennis, dancing Salsa, or going for a walk in nature.
